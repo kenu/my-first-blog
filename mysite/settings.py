@@ -25,7 +25,7 @@ SECRET_KEY = '&1e&==(2d&y0#t+y0m7d=1t-ur6of@=qp&9njg7=qdvpavwk$c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kenu.pythonanywhere.com']
 
 
 # Application definition
